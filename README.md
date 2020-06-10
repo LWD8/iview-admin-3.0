@@ -1,4 +1,6 @@
-# xl
+# 精简后台截图
+![image](https://github.com/LWD8/iview-admin-3.0/blob/master/public/images/img1.png)
+![image](https://github.com/LWD8/iview-admin-3.0/blob/master/public/images/img2.png)
 
 ## Project setup
 ```
